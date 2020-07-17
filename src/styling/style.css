@@ -1,0 +1,32 @@
+.tab {
+	padding-left: 6%;
+}
+.head-pad {
+	margin-top: 50px;
+	padding-bottom: 20px;
+}
+.geser {
+	padding-right: 360px;
+}
+.autoPad {
+	height: 140px;
+}
+.tebal {
+	font-weight: bold;
+	font-size: medium;
+}
+.tipis {
+	font-size: small;
+}
+body {
+	background: linear-gradient(#f4f4f4, #d7d7d7, #fefefe)
+}
+.film {
+	overflow-x: scroll;
+}
+.marginUP {
+    margin-top: 50px;
+}
+.clr {
+    background-color: aquamarine;
+}
